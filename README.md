@@ -64,5 +64,6 @@ See https://docs.monitorss.xyz/setting-up/staying-updated. Since using `npm inst
 ```
 git reset --hard origin/master && npm install && npm install --no-save node@12.16.3
 ```
+zz
 
 
